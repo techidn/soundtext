@@ -30,7 +30,7 @@ MyInstants
 
 Bagi kamu yang lebih suka suara anime yang tanpa harus ribet membuat sendiri maka bisa menggunakan aplikasi sound of text anime dari MyInstants. Pada situs tersebut, kamu bisa memilih banyak sekali suara untuk digunakan sebagai nada dering. Untuk menggunakan, kamu cukup mengetikkan kata kunci dari inspirasi tokoh yang kamu cari. Untuk lebih jelasnya berikut penjelasan lengkapnya:
 
-1. Bukalah Google Chrome atau browser lainnya pada smartphone lalu ketikkan **www.myinstants.com/index/id/** 
+1. Bukalah Google Chrome atau browser lainnya pada smartphone lalu ketikkan **myinstants.com/index/id/** 
 2. Pada bagian atas, kamu bisa masuk ke kolom pencarian lalu ketikkan jenis anime yang dipilih. Dalam hal ini akan di contohnya memilih anime dengan jenis Naruto.
 3. Ketika mengetikkan Naruto, kamu bisa memilih berbagai suara yang jumlahnya cukup banyak.
 4. Tekan terlebih dahulu tombol untuk memutar dan jika sudah sesuai kamu bisa memilih namanya.

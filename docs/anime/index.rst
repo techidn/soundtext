@@ -59,14 +59,14 @@ Keunggulan Sound of Text WA Anime
 
 Secara singkat, sound of text wa dengan suara anime ini memang lebih menarik dari yang lainnya. Ada beberapa keunggulan yang bisa kamu dapatkan jika memilih suara tersebut di smartphone:
 
-#1 Suaranya Khas
+1. Suaranya Khas
 -----------
 
 Keunggulan sound of text anime yang pertama adalah memiliki jenis suara khas. Kamu bisa menemukan banyak jenis suara (tidak hanya pria dan wanita) sehingga tidak terkesan monoton.
 
 Selain itu, sound of text anime juga menghasilkan jenis suara bervariasi dan terdengar berbeda. Hal ini karena tokoh yang akan dikonversi memiliki suara khas sehingga saat digunakan sebagai nada dering akan berbeda.
 
-#2 Banyak Pilihan Karakter
+2. Banyak Pilihan Karakter
 --------------
 
 Selain suaranya yang khas, kamu juga bisa memilih banyak karakter atau tokoh anime populer. Misalnya saja Dragon ball yang memiliki karakter sebanyak 28 tokoh dan semuanya memilih suara khas.

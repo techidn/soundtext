@@ -30,6 +30,7 @@ Untuk itu, dengarkan terlebih dahulu dan jika sesuai kamu bisa mengunduh berbaga
 
 Vo Codes (Spongebob)
 ------------------------
+
 Vo Codes merupakan situs yang cukup populer tetapi untuk hal-hal yang lucu disarankan memilih kartun Spongebob. Pasalnya, suara tokoh di kartun ini cukup unik bahkan ada satu tokoh yang terkadang bisa membuat orang tertawa.
 
 Untuk itu, di situs tersebut kamu bisa membuat nada dering WA yang lucu menggunakan suara Spongebob. Untuk proses pembuatannya hampir sama dengan situs di atas dan berikut ulasan selengkapnya:
@@ -41,6 +42,7 @@ Untuk itu, di situs tersebut kamu bisa membuat nada dering WA yang lucu mengguna
 5. Setelah semua selesai, kamu bisa memilih speak.
 6. Scroll ke bawah lalu pilih play untuk memutar dan pilih download untuk mengunduhnya.
 7. Proses pembuatan nada dering melalu situs diatas dapat dilakukan secara berulang dan batasan teksnya 500 karakter. Proses pembuatan di situs tersebut tergolong unlimited dan semuanya tanpa biaya alias gratis.
+
 
 Cara Mengganti Sound of Text Menjadi Notifikasi Whatsapp
 ------------------------
@@ -56,16 +58,16 @@ Setelah selesai membuat sound of text dengan cara diatas, kamu bisa mengaplikasi
 7. Jadi cara membuat sound of text notifikasi WA lucu dapat dilakukan dengan cara instan atau melalui kata-kata sendiri. Selanjutnya sound of text yang telah diunduh dapat digunakan di notifikasi Whatsapp baik untuk pesan atau yang lainnya.
 
 Resources: 
-==================
+-----------------
 - `nada dering wa suara google <https://whitepaper.co.id/cara-nada-dering-wa-suara-google/>`_
 - `download suara google text <https://www.dmo.or.id/download-suara-google-text-untuk-wa/>`_
 - `sound of text <https://www.sebuahutas.com/2021/04/cara-pakai-sound-of-text-untuk-whatsapp.html>`_
 - `sound of text jawa <https://www.technolati.com/2022/04/3-sound-of-text-jawa-di-wa-menggunakan.html>`_
 - `cara membuat suara google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
 
-********
+
 Contents
-********
+-----------------
 
 .. toctree::
    :maxdepth: 2

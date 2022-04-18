@@ -65,9 +65,6 @@ Resources:
 - `cara membuat suara google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
 - `nada dering sound of text sebut nama <https://www.autobild.co.id/2022/04/cara-nada-dering-wa-sebut-nama-dan.html>`_
 
-Daftar Isi
--------------
-
 Contents
 -----------------
 

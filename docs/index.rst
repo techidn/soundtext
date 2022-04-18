@@ -60,11 +60,13 @@ Setelah selesai membuat sound of text dengan cara diatas, kamu bisa mengaplikasi
 Resources: 
 -----------------
 - `nada dering wa suara google <https://whitepaper.co.id/cara-nada-dering-wa-suara-google/>`_
-- `download suara google text <https://www.dmo.or.id/download-suara-google-text-untuk-wa/>`_
 - `sound of text <https://www.sebuahutas.com/2021/04/cara-pakai-sound-of-text-untuk-whatsapp.html>`_
 - `sound of text jawa <https://www.technolati.com/2022/04/3-sound-of-text-jawa-di-wa-menggunakan.html>`_
 - `cara membuat suara google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
+- `nada dering sound of text sebut nama <https://www.autobild.co.id/2022/04/cara-nada-dering-wa-sebut-nama-dan.html>`_
 
+Daftar Isi
+-------------
 
 Contents
 -----------------

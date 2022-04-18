@@ -1,72 +1,59 @@
-Aplikasi Untuk Ubah Teks Jadi Suara Secara Online Sound of Text
+Cara Membuat Sound of text Notifikasi WA
 ==================
 
-Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat yang dibuat? Saat ini, ada cukup banyak aplikasi yang bisa diandalkan untuk membantu Anda mengubah teks menjadi suara narasi dengan sangat mudah. Nah, untuk memudahkan Anda, ada beberapa referensi terkait daftar aplikasi `sound of text wa <https://www.voiceoftext.com/p/sound-of-text-wa.html>`_ untuk ubah teks jadi suara secara online terpercaya dan mudah digunakan.
+Sound of text yang lucu bukan merupakan hal yang baru dan sudah banyak digunakan oleh banyak orang untuk notifikasi. Dari sekian banyak notifikasi yang paling sering digunakan adalah di Whatsapp baik di pesan, group dan panggilan masuk.
 
-Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
+Ada beberapa cara membuat sound of text notifikasi WA lucu melalui beberapa situs terpercaya di internet. Menariknya untuk mengakses situs dan membuat sound of text tidak perlu PC tetapi cukup dari smartphone.
 
-- `German text to speech <https://www.voiceoftext.com/p/german-text-to-speech.html>`_
-- `Tagalog text to speech <https://karinov.co.id/tagalog-text-to-speech/>`_
+Selain itu dari sekian sound of text yang tersedia rata-rata bisa dibuat dengan kata-kata sendiri atau instan. Dengan demikian, kamu bisa menyesuaikan terkiat mana yang akan dipilih dan digunaka untuk notifikasi di Whatsapp.
 
-Lantas, apa saja aplikasi online yang bisa diandalkan untuk mengubah teks menjadi suara tersebut? Simak ulasan selengkapnya!
+Cara Membuat Sound of Text Notifikasi WA
+------------------------
 
-`Cara Buat Nada Dering WA Suara Google <https://karinov.co.id/buat-nada-dering-wa-suara-google/>`_ | `Botika Text to Speech WA <https://www.dmo.or.id/botika-text-to-speech-wa/>`_ | `Voice of Text <https://www.voiceoftext.com/>`_
+Dalam membuat sound of text yang nantinya digunakan untuk notifikasi WA dengan nada lucu dapat dibuat melalui situs berikut:
 
+MyInstants
+------------------------
 
-Rekomendasi Aplikasi Mengubah Teks Menjadi Suara Secara Online
-==================
+Sesuai dengan namanya, sound of text lucu di situs tersebut tidak perlu menggunakan kata-kata sendiri alias instan. Jika kamu tipe orang yang suka instan maka situs ini bisa jadi pilihan terbaik dan berikut langkah-langkahnya:
 
-Sebenarnya, ada cukup banyak situs yang bisa dijadikan tool untuk mengubah teks menjadi suara dengan lebih mudah. Tentu, beberapa situs tersebut akan memberikan keleluasaan bagi Anda untuk memilihnya.
+1. Buka aplikasi Google Chrome pada smartphone lalu ketikkan myinstants.com/index/id/
+2. Pada bagian atas sebelah tengah, kamu bisa masuk ke menu search.
+3. Pada kolom tersebut, kamu bisa mengetikkan kata funny, cute.
+4. Kamu akan ditampilkan berbagai macam pilihan sound of text dan test terlebih dahulu sebelum diunduh.
+5. Kamu bisa klik tombol mulai dari warna merah, hijau, dll untuk mendengarkan.
+6. Ketika sudah ada yang cocok, kamu bisa klik nama dari sound of textnya.
+7. Untuk mulai mengunduh, kamu bisa klik download MP3 di bagian kanan bawah.
+8. Pada situs MyInstants disarankan tidak langsung mengunduh sound of text yang tersedia tetapi didengarkan terlebih dahulu. Karena meski kata kuncinya sama-sama funny tetapi suaranya tidak menunjukkan efek lucu.
 
-Nah, untuk memudahkan, beberapa situs yang ada dalam daftar `Sound of text WA <https://www.griyawisata.com/2021/08/daftar-sound-of-text-whatsapp-terbaru.html>`_ bisa menjadi referensi yang tepat untuk Anda. Apa saja? Lihat selengkapnya!
+Untuk itu, dengarkan terlebih dahulu dan jika sesuai kamu bisa mengunduh berbagai sound of text yan tersedia. Kamu bebas unduh mengunduh semua sound of text tersebut dan semua dapat dilakukan secara gratis.
 
-Botika Online
-==================
+Vo Codes (Spongebob)
+------------------------
+Vo Codes merupakan situs yang cukup populer tetapi untuk hal-hal yang lucu disarankan memilih kartun Spongebob. Pasalnya, suara tokoh di kartun ini cukup unik bahkan ada satu tokoh yang terkadang bisa membuat orang tertawa.
 
-Salah satu situs yang bisa diandalkan untuk mengubah teks menjadi suara adalah Botika. Apa yang menarik dari situs ini adalah Anda bisa mengubah teks yang ditulis menjadi suara dengan efek suara wanita Indonesia asli. 
+Untuk itu, di situs tersebut kamu bisa membuat nada dering WA yang lucu menggunakan suara Spongebob. Untuk proses pembuatannya hampir sama dengan situs di atas dan berikut ulasan selengkapnya:
 
-Tidak hanya itu, cara menggunakan situs `Botika Text to Speech <https://whitepaper.co.id/suara-google-botika-jadi-notifikasi-wa/>`_ pun sangat mudah, yaitu:
+1. Buka aplikasi Google Chrome yang ada pada smartphone lalu ketikkan fakeyou.com
+2. Pada bagian kategori, kamu bisa memilih cartoon lalu pilih Spongebob SquarePants.
+3. Pada bagian voice, kamu dapat memilih salah satu tokoh Spongebob terbaik.
+4. Pada kolom text, kamu bisa mengetikkan kata-kata lucu yang bisa digunakan untuk nada dering.
+5. Setelah semua selesai, kamu bisa memilih speak.
+6. Scroll ke bawah lalu pilih play untuk memutar dan pilih download untuk mengunduhnya.
+7. Proses pembuatan nada dering melalu situs diatas dapat dilakukan secara berulang dan batasan teksnya 500 karakter. Proses pembuatan di situs tersebut tergolong unlimited dan semuanya tanpa biaya alias gratis.
 
-1. Buka situs https://botika.online/TextToSpeech/ secara langsung menggunakan device Anda
-2. Jika sudah, tulis teks yang ingin diubah menjadi suara pada kolom text to speech yang tersedia
-3. Selanjutnya, pilih gaya atau efek suara yang akan digunakan sesuai dengan opsi yang tersedia
-4. Lakukan verifikasi pada captcha yang tersedia pada kotak
-5. Selanjutnya, tunggu proses convert selesai untuk mendapatkan versi suara dari teks tersebut
+Cara Mengganti Sound of Text Menjadi Notifikasi Whatsapp
+------------------------
 
-Nah, jika proses convert selesai, Anda bisa mengunduh file tersebut. Tekan ikon download untuk mendapatkan file rekaman ataupun tekan play untuk memainkannya.
+Setelah selesai membuat sound of text dengan cara diatas, kamu bisa mengaplikasinya ke notifikasi Whatsapp. Untuk mengganti notifikasi baik di pesan, group atau panggilan dapat dilakukan dengan cara sebagai berikut:
 
-Lihat pula: `Nada Dering WA Ada Namanya <https://oke.or.id/cara-nada-dering-wa-ada-namanya/>`_
-
-Vo Codes
-==================
-Ingin membuat suara `sound of text wa <https://www.autobild.co.id/2021/10/sound-of-text-notifikasi-wa-lucu-dengan.html>`_ yang keren dan unik seperti kartun? Nah, Vo Codes bisa menjadi situs yang Anda gunakan untuk mendapatkan efek suara tersebut. Situs ini termasuk dalam salah satu daftar aplikasi untuk ubah teks jadi suara secara online menarik yang bisa dijadikan pilihan.
-
-Di dalam situs ini, terdapat cukup banyak efek suara kartun yang tersedia, seperti Sponge bob ataupun tokoh anime lainnya. Namun, situs ini hanya bisa digunakan untuk mengubah teks bahasa Inggris saja. Oleh karenanya, pastikan Anda sudah menerjemahkan teks tersebut sebelumnya.
-
-Nah, untuk menggunakan situs ini, ikuti langkah berikut:
-
-1. Ketik situs vo.codes menggunakan browser di ponsel Anda
-2. Jika sudah, langsung saja pilih jenis suara cartoons and anime yang ada pada opsi kolom all voices
-3. Pilih karakter yang Anda sukai, seperti misalnya Sponge Bob 
-4. Masukkan teks dalam bahasa Inggris yang ingin diubah menjadi suara pada kolom yang disediakan
-5. Klik tombol speak untuk memutar suara
-6. Rekam suara tersebut dengan menggunakan fitur audio recorder yang ada di aplikasi WhatsApp atau lainnya
-
-Nah, dengan cara tersebut Anda bisa membuat suara menggunakan aneka efek yang lucu. Hanya saja, situs ini tidak menyediakan opsi unduh secara langsung sehingga Anda perlu tool tambahan untuk merekam.
-
-Beberapa opsi di atas merupakan daftar aplikasi untuk ubah teks jadi suara secara online yang bisa Anda gunakan. Sebagai tambahan, Anda bisa menggunakan situs Voice Maker jika ingin membuat suara dengan efek anak kecil. Nah, bandingkan beberapa situs di atas dan pilih mana yang sesuai dengan keinginan!
-
-Tanya Jawab Sound of text
-=================
-
-- Apa itu text to speech?
-Text to speech adalah proses perubahan kata-kata menjadi audio digital yang umumnya dibuat dari situs tertentu dan aplikasi di smartphone.
-
-- Apakah Botika Online tersedia dalam bentuk aplikasi?
-Botika Online tidak hanya dalam bentuk situs web saja melainkan hadir dalam bentuk aplikasi. Kamu bisa menggunakan versi aplikasi dan hingga saat ini hanya tersedia di Google Play dan belum ada di App Store. Lebih lanjut kamu bisa merujuk ke artikel `Botika text to speech <https://www.technolati.com/2022/04/cara-botika-text-to-speech-wa-jadi-nada.html>`_ terbaru berikut ini.
-
-- Selain sound of text dan Botika, adakah alat text to speech gratis lainnya yang bisa bahasa Indonesia?
-Ya ada, kamu bisa menggunakan aplikasi text to speech yang cukup populer dalam mode gratis seperti Voiceoftext.com, Voicemaker.in, FreeTTS.com, Wideo Text to speech, Fakeyou.com. Semuanya tersedia dalam versi gratis, uniknya, kamu bisa menggunakan suara pria bahkan membuat suara kartun dnegan tools text to speech yang telah disebutkan.
+1. Buka aplikasi Whatsapp pada smartphone dan lakukan update ke versi terbaru.
+2. Klik tiga titik di bagian kanan atas lalu pilih setelan.
+3. Pada beberapa menu yang tersedia, kamu bisa memilih notifikasi.
+4. Pada menu tersebut kamu bisa memilih chat, group dan panggilan.
+5. Pilih salah satunya lalu klik nada dering.
+6. Kamu bisa memilih nada dering dengan mengklik pilih dari file lalu klik nada dering yang pernah di download.
+7. Jadi cara membuat sound of text notifikasi WA lucu dapat dilakukan dengan cara instan atau melalui kata-kata sendiri. Selanjutnya sound of text yang telah diunduh dapat digunakan di notifikasi Whatsapp baik untuk pesan atau yang lainnya.
 
 Resources: 
 ==================
